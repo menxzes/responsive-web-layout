@@ -43,7 +43,7 @@ Ambos os projetos possuem o mesmo HTML estrutural, permitindo uma comparação d
 ## Como acessar
 Clique aqui para acessar a página [Flexbox-only](https://menxzes.github.io/responsive-web-layout/flexbox/).
 
-Clique aqui para acessar a página [CSS Grid + Flexbox](https://menxzes.github.io/responsive-web-layout/grid-flexbox/).
+Clique aqui para acessar a página [CSS Grid + Flexbox](https://menxzes.github.io/responsive-web-layout/grid_flexbox/).
 
 ## Observações
 
