@@ -41,9 +41,9 @@ Ambos os projetos possuem o mesmo HTML estrutural, permitindo uma comparação d
 |     **Espaçamento**     |    Gerenciado com gap/margins   |    Espaçamento integrado ao grid   |
 
 ## Como acessar
-Clique aqui para acessar a página [Flexbox-only]().
+Clique aqui para acessar a página [Flexbox-only](https://menxzes.github.io/responsive-web-layout/flexbox/).
 
-Clique aqui para acessar a página [CSS Grid + Flexbox]().
+Clique aqui para acessar a página [CSS Grid + Flexbox](https://menxzes.github.io/responsive-web-layout/grid-flexbox/).
 
 ## Observações
 
